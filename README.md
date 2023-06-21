@@ -623,3 +623,8 @@ visualize('runs/inference/v6n_infer_valid__images/')
 ```
 
 ![image-20230622021854999](https://cdn.jsdelivr.net/gh/crwhsh/img/img/image-20230622021854999.png)
+## 结束
+
+我的代码所在的仓库链接[crwhsh/YOLOv6-Underwater_Trash_Detection (github.com)](https://github.com/crwhsh/YOLOv6-Underwater_Trash_Detection)
+
+
