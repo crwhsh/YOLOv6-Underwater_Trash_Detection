@@ -626,5 +626,7 @@ visualize('runs/inference/v6n_infer_valid__images/')
 ## 结束
 
 我的代码所在的仓库链接[crwhsh/YOLOv6-Underwater_Trash_Detection (github.com)](https://github.com/crwhsh/YOLOv6-Underwater_Trash_Detection)
+博客原文链接[基于YOLOv6-水下垃圾检测 | one hu的博客](https://www.onehu.top/archives/9f6a770e.html)
+
 
 
